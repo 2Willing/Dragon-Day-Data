@@ -1,0 +1,1 @@
+These are the source data used to generate each panel of Figure 3. The two images used for generating each running-difference panel are present. The instrument and observing time in the file names are consistent with the panels.
